@@ -1,0 +1,6 @@
+E:\Learning\Unity\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+E:\Learning\Unity\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+E:\Learning\Unity\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+E:\Learning\Unity\SocketServer\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+E:\Learning\Unity\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+E:\Learning\Unity\SocketServer\SocketServer\obj\Debug\SocketServer.pdb
