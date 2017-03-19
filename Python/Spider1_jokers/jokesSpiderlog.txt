@@ -1,0 +1,2410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+<meta name="renderer" content="webkit"/>
+<meta name="applicable-device" content="pc">
+<title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+糗事百科 - 超搞笑的原创糗事笑话分享社区
+</title>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="keywords" content="笑话,搞笑,笑话大全 爆笑,笑话大全,糗事百科,幽默笑话,爆笑笑话" />
+<meta name="description" content="糗事百科是一个原创的糗事笑话分享社区,糗百网友分享的搞笑段子、搞笑图片大全,都是糗友最珍贵的开心经历,爆笑糗事笑话只在糗事百科！"/>
+
+<meta http-equiv="mobile-agent" content="format=xhtml;url=http://www.qiushibaike.com/">
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.qiushibaike.com/">
+
+
+
+<link rel="canonical" href="http://www.qiushibaike.com"/>
+
+
+<meta name="robots" content="noarchive">
+<link href="http://static.qiushibaike.com/css/dist/web/app.min.css?v=f9ad525ffb58b06294fc6212976ceb5e" media="screen, projection" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+// Baidu Automatic push content
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?2670efbdd59c7e3ed3749b458cafaa37";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+<body>
+
+
+<div id="header" class="head">
+<div class="content-block">
+<div class="logo" id="hd_logo">
+<a href="/"><h1>糗事百科</h1></a>
+</div>
+<div id="menu" class="menu-bar menu clearfix" style="margin:0 10px">
+<a  id="highlight"  href="/" rel="nofollow">热门</a>
+<a  href="/hot/">24小时</a>
+<a  href="/imgrank/">热图</a>
+<a  href="/text/">文字</a>
+<a  href="/history/">穿越</a>
+<a  href="/pic/">糗图</a>
+<a  href="/textnew/">新鲜</a>
+<a  class="fn-signin-required" href="javascript:void(0);" data-go="/article/add" rel="nofollow">投稿</a>
+<!--<a href="http://www.youliaodao.cn" target="_blank" rel="nofollow">百科</a>-->
+</div>
+
+<div class="userbar clearfix">
+<div class="login hidden">
+<a href="/my" class="username" id="uname" rel="nofollow"></a>
+</div>
+<div class="logout">
+<a href="javascript:void(0);" class="fn-signin-required logintop" id='logintop' rel="nofollow" style="font-size:16.5px;">登录</a>
+</div>
+</div>
+
+</div>
+</div>
+
+
+
+<div id="content" class="main">
+<div class="content-block clearfix">
+
+<div id="content-left" class="col1">
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118743549'>
+
+<div class="author clearfix">
+<a href="/users/4819919/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/481/4819919/medium/20170315002041.JPEG" alt="二货要微笑"/>
+</a>
+<a href="/users/4819919/" target="_blank" title="二货要微笑">
+<h2>二货要微笑</h2>
+</a>
+<div class="articleGender manIcon">23</div>
+</div>
+
+
+
+<a href="/article/118743549" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>侄女跟大嫂说：妈咪啊。你以后能不能多给粑粑一些零花钱，他一个大男人身上总没钱也不是一回事啊！<br/>大嫂笑眯眯的说：呦呵，不愧是你老爸上辈子的情人啊，这么心疼你老爸啊？<br/>侄女嘟嘟小嘴说：你知道吗？就是因为你经常克扣粑粑的零花钱。然后粑粑不是没钱用，就敲诈我的零花钱去买烟，害得人家现在辣条都吃不起了……</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">1085</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118743549" data-share="/article/118743549" id="c-118743549" class="qiushi_comments" target="_blank">
+<i class="number">5</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118743549" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118743549" class="up">
+<a href="javascript:voting(118743549,1)" class="voting" data-article="118743549" id="up-118743549" rel="nofollow">
+<i></i>
+<span class="number hidden">1108</span>
+</a>
+</li>
+<li id="vote-dn-118743549" class="down">
+<a href="javascript:voting(118743549,-1)" class="voting" data-article="118743549" id="dn-118743549" rel="nofollow">
+<i></i>
+<span class="number hidden">-23</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118743549" id="c-118743549" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744111'>
+
+<div class="author clearfix">
+<a href="/users/33443558/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3344/33443558/medium/20170220195628.JPEG" alt="魔女T"/>
+</a>
+<a href="/users/33443558/" target="_blank" title="魔女T">
+<h2>魔女T</h2>
+</a>
+<div class="articleGender womenIcon">47</div>
+</div>
+
+
+
+<a href="/article/118744111" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>初中时，我妈怕我早恋，老是教我妹在学校看到我跟那个男生走得近要告诉她，然后有次我跟一男生一起走被她看见了，她突然冲过来对那男说，这是我买的水果送给你，，，，他们那年夏天在一起了，可后来我才知道那水果是我妈买给我的</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">1052</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744111" data-share="/article/118744111" id="c-118744111" class="qiushi_comments" target="_blank">
+<i class="number">7</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744111" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744111" class="up">
+<a href="javascript:voting(118744111,1)" class="voting" data-article="118744111" id="up-118744111" rel="nofollow">
+<i></i>
+<span class="number hidden">1075</span>
+</a>
+</li>
+<li id="vote-dn-118744111" class="down">
+<a href="javascript:voting(118744111,-1)" class="voting" data-article="118744111" id="dn-118744111" rel="nofollow">
+<i></i>
+<span class="number hidden">-23</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744111" id="c-118744111" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744954'>
+
+<div class="author clearfix">
+<a href="/users/31017736/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3101/31017736/medium/20160124002717.jpg" alt="918疯狂英子"/>
+</a>
+<a href="/users/31017736/" target="_blank" title="918疯狂英子">
+<h2>918疯狂英子</h2>
+</a>
+<div class="articleGender womenIcon">35</div>
+</div>
+
+
+
+<a href="/article/118744954" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>小时候每天出门路过一胡同，老是看见一只小狗跟在两只小鸡后面，于是我就在想，那狗别把小鸡吃了啊，为小鸡捏把汗！有天一大早，我又看见那只小狗跟在一个大妈旁边。大妈拎个笼子，走到菜园旁边打开，放出那两只小鸡子，转身对狗说：“看好，丢了打你！”说完就走了，然后那狗屁颠屁颠跟着两只觅食的小鸡到处跑……我凌乱了……</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">1052</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744954" data-share="/article/118744954" id="c-118744954" class="qiushi_comments" target="_blank">
+<i class="number">12</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744954" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744954" class="up">
+<a href="javascript:voting(118744954,1)" class="voting" data-article="118744954" id="up-118744954" rel="nofollow">
+<i></i>
+<span class="number hidden">1069</span>
+</a>
+</li>
+<li id="vote-dn-118744954" class="down">
+<a href="javascript:voting(118744954,-1)" class="voting" data-article="118744954" id="dn-118744954" rel="nofollow">
+<i></i>
+<span class="number hidden">-17</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744954" id="c-118744954" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+<a href="/article/118744954" class='indexGodCmt' onclick="_hmt.push(['_trackEvent','web_list_god','chick'])" rel="nofollow" target='_blank' >
+<div class="cmtMain">
+<span class="cmt-god" ></span>
+
+<span class="cmt-name">爱宠一族</span>
+
+<div class="main-text">
+：我能说我家的缉毒犬能看五十只小鸭吗？？？真不吹，都不带少的，每回回家都会有多的
+<div class="likenum">
+<img src="http://static.qiushibaike.com/images/newarticle/like@1.5.png?v=b7f830b3bb97b559891af61444d3b4ad" />
+
+
+7
+
+</div>
+</div>
+</div>
+</a>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744763'>
+
+<div class="author clearfix">
+<a href="/users/33031972/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3303/33031972/medium/2016112718404555.JPEG" alt="王妞妞滑"/>
+</a>
+<a href="/users/33031972/" target="_blank" title="王妞妞滑">
+<h2>王妞妞滑</h2>
+</a>
+<div class="articleGender manIcon">31</div>
+</div>
+
+
+
+<a href="/article/118744763" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>同事张姐85公斤，不但不减肥，而且越吃越多，理由居然是：既然不能用美貌留住老公，那就用家暴留住他。<br/>霸气了，我的姐</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">1042</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744763" data-share="/article/118744763" id="c-118744763" class="qiushi_comments" target="_blank">
+<i class="number">8</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744763" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744763" class="up">
+<a href="javascript:voting(118744763,1)" class="voting" data-article="118744763" id="up-118744763" rel="nofollow">
+<i></i>
+<span class="number hidden">1060</span>
+</a>
+</li>
+<li id="vote-dn-118744763" class="down">
+<a href="javascript:voting(118744763,-1)" class="voting" data-article="118744763" id="dn-118744763" rel="nofollow">
+<i></i>
+<span class="number hidden">-18</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744763" id="c-118744763" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118745327'>
+
+<div class="author clearfix">
+<a href="/users/25832998/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/2583/25832998/medium/20150221103515.jpg" alt="就小肚鸡长了"/>
+</a>
+<a href="/users/25832998/" target="_blank" title="就小肚鸡长了">
+<h2>就小肚鸡长了</h2>
+</a>
+<div class="articleGender manIcon">41</div>
+</div>
+
+
+
+<a href="/article/118745327" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>儿子长大了，年前办了身份证，楼主内心很是欣慰。<br/>今天接了个电话:“您是XX的父亲吗？您儿子在我们公司办理的分期还款业务以超过好几天了，您是第一紧急还款联系人...。”呃...逼仔子</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">949</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118745327" data-share="/article/118745327" id="c-118745327" class="qiushi_comments" target="_blank">
+<i class="number">10</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118745327" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118745327" class="up">
+<a href="javascript:voting(118745327,1)" class="voting" data-article="118745327" id="up-118745327" rel="nofollow">
+<i></i>
+<span class="number hidden">969</span>
+</a>
+</li>
+<li id="vote-dn-118745327" class="down">
+<a href="javascript:voting(118745327,-1)" class="voting" data-article="118745327" id="dn-118745327" rel="nofollow">
+<i></i>
+<span class="number hidden">-20</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118745327" id="c-118745327" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744670'>
+
+<div class="author clearfix">
+<a href="/users/31703827/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3170/31703827/medium/2016100412042124.JPEG" alt="大塘高森"/>
+</a>
+<a href="/users/31703827/" target="_blank" title="大塘高森">
+<h2>大塘高森</h2>
+</a>
+<div class="articleGender manIcon">23</div>
+</div>
+
+
+
+<a href="/article/118744670" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>想想都激动</span>
+
+
+</div>
+</a>
+
+
+
+
+<div class="thumb">
+
+<a href="/article/118744670" target="_blank">
+<img src="http://pic.qiushibaike.com/system/pictures/11874/118744670/medium/app118744670.jpg" alt="想想都激动" />
+</a>
+
+</div>
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">912</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744670" data-share="/article/118744670" id="c-118744670" class="qiushi_comments" target="_blank">
+<i class="number">2</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744670" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744670" class="up">
+<a href="javascript:voting(118744670,1)" class="voting" data-article="118744670" id="up-118744670" rel="nofollow">
+<i></i>
+<span class="number hidden">923</span>
+</a>
+</li>
+<li id="vote-dn-118744670" class="down">
+<a href="javascript:voting(118744670,-1)" class="voting" data-article="118744670" id="dn-118744670" rel="nofollow">
+<i></i>
+<span class="number hidden">-11</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744670" id="c-118744670" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118745025'>
+
+<div class="author clearfix">
+<a href="/users/32518905/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3251/32518905/medium/20170129091543.JPEG" alt="情思乱乱"/>
+</a>
+<a href="/users/32518905/" target="_blank" title="情思乱乱">
+<h2>情思乱乱</h2>
+</a>
+<div class="articleGender manIcon">19</div>
+</div>
+
+
+
+<a href="/article/118745025" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>今早替老妈去买猪肉，“老板，五花肉多少钱一斤？”<br/>老板:正常都卖十五一斤，就卖给你十三吧！<br/>“卧槽。你说谁不正常，给我来十五的”</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">910</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118745025" data-share="/article/118745025" id="c-118745025" class="qiushi_comments" target="_blank">
+<i class="number">12</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118745025" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118745025" class="up">
+<a href="javascript:voting(118745025,1)" class="voting" data-article="118745025" id="up-118745025" rel="nofollow">
+<i></i>
+<span class="number hidden">927</span>
+</a>
+</li>
+<li id="vote-dn-118745025" class="down">
+<a href="javascript:voting(118745025,-1)" class="voting" data-article="118745025" id="dn-118745025" rel="nofollow">
+<i></i>
+<span class="number hidden">-17</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118745025" id="c-118745025" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744705'>
+
+<div class="author clearfix">
+<a href="/users/28409876/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/2840/28409876/medium/20150514172808.jpg" alt="拥抱过仙人掌的人"/>
+</a>
+<a href="/users/28409876/" target="_blank" title="拥抱过仙人掌的人">
+<h2>拥抱过仙人掌的人</h2>
+</a>
+<div class="articleGender womenIcon">26</div>
+</div>
+
+
+
+<a href="/article/118744705" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>小时候戴银镯子，带铃铛的那种，半个月不到就发黑了，老人说是身体不好，镯子才会发黑，就给我各种补，还怪我怎么吃了那么多还像个小鸡崽似的，现在想想，真不是身体不好，而是小时候家里洗澡用的是硫磺皂……硫磺皂……</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">902</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744705" data-share="/article/118744705" id="c-118744705" class="qiushi_comments" target="_blank">
+<i class="number">12</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744705" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744705" class="up">
+<a href="javascript:voting(118744705,1)" class="voting" data-article="118744705" id="up-118744705" rel="nofollow">
+<i></i>
+<span class="number hidden">923</span>
+</a>
+</li>
+<li id="vote-dn-118744705" class="down">
+<a href="javascript:voting(118744705,-1)" class="voting" data-article="118744705" id="dn-118744705" rel="nofollow">
+<i></i>
+<span class="number hidden">-21</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744705" id="c-118744705" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744266'>
+
+<div class="author clearfix">
+<a href="/users/33550570/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3355/33550570/medium/2017031721290244.JPEG" alt="周周·周宝宝妈"/>
+</a>
+<a href="/users/33550570/" target="_blank" title="周周·周宝宝妈">
+<h2>周周·周宝宝妈</h2>
+</a>
+<div class="articleGender womenIcon">0</div>
+</div>
+
+
+
+<a href="/article/118744266" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>记得跨年的时候突然有天宝爸说带我去看跨年晚会，给我激动不行（宝宝刚两个多月）后问孩子咋办啊？宝爸说没事的，等孩子睡着咱俩坐客厅看，没关系的……我去</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">902</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744266" data-share="/article/118744266" id="c-118744266" class="qiushi_comments" target="_blank">
+<i class="number">6</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744266" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744266" class="up">
+<a href="javascript:voting(118744266,1)" class="voting" data-article="118744266" id="up-118744266" rel="nofollow">
+<i></i>
+<span class="number hidden">911</span>
+</a>
+</li>
+<li id="vote-dn-118744266" class="down">
+<a href="javascript:voting(118744266,-1)" class="voting" data-article="118744266" id="dn-118744266" rel="nofollow">
+<i></i>
+<span class="number hidden">-9</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744266" id="c-118744266" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744881'>
+
+<div class="author clearfix">
+<a href="/users/33205403/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3320/33205403/medium/2017022008171145.JPEG" alt="诗文宝宝"/>
+</a>
+<a href="/users/33205403/" target="_blank" title="诗文宝宝">
+<h2>诗文宝宝</h2>
+</a>
+<div class="articleGender womenIcon">20</div>
+</div>
+
+
+
+<a href="/article/118744881" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>和闺蜜去逛商场，路过娃娃机的时候，看到一个帅哥连续抓出好几个娃娃，羡慕死我们了，于是我和闺蜜抓了几十次…但是一个也没抓出来啊T_T       正在难过的时候，那个帅哥用钥匙打开娃娃机，把他之前抓到的娃娃又放了进去！</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">875</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744881" data-share="/article/118744881" id="c-118744881" class="qiushi_comments" target="_blank">
+<i class="number">14</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744881" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744881" class="up">
+<a href="javascript:voting(118744881,1)" class="voting" data-article="118744881" id="up-118744881" rel="nofollow">
+<i></i>
+<span class="number hidden">894</span>
+</a>
+</li>
+<li id="vote-dn-118744881" class="down">
+<a href="javascript:voting(118744881,-1)" class="voting" data-article="118744881" id="dn-118744881" rel="nofollow">
+<i></i>
+<span class="number hidden">-19</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744881" id="c-118744881" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+<a href="/article/118744881" class='indexGodCmt' onclick="_hmt.push(['_trackEvent','web_list_god','chick'])" rel="nofollow" target='_blank' >
+<div class="cmtMain">
+<span class="cmt-god" ></span>
+
+<span class="cmt-name">南洋水师司令官</span>
+
+<div class="main-text">
+：我想和诗文发生一些不可描述又妙不可言的事情，你们能把我抬上去让她看到吗？
+<div class="likenum">
+<img src="http://static.qiushibaike.com/images/newarticle/like@1.5.png?v=b7f830b3bb97b559891af61444d3b4ad" />
+
+
+5
+
+</div>
+</div>
+</div>
+</a>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744872'>
+
+<div class="author clearfix">
+<a href="/users/6012974/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/601/6012974/medium/20170319174540.JPEG" alt="雾里月朗"/>
+</a>
+<a href="/users/6012974/" target="_blank" title="雾里月朗">
+<h2>雾里月朗</h2>
+</a>
+<div class="articleGender manIcon">22</div>
+</div>
+
+
+
+<a href="/article/118744872" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>【永远不要吝啬善良[心]】美国女大学生fishery在购买餐点时遇上一名流浪汉，为对方也买了一份，fishery耐心听流浪汉的境遇：没有父亲，母亲过世，自己染毒，遭遇各种歧视...离开前，流浪汉写了张纸条给她：“我本想在今天结束生命，但因为遇见你，我现在不想了，谢谢你，美丽的人。”</span>
+
+
+</div>
+</a>
+
+
+
+
+<div class="thumb">
+
+<a href="/article/118744872" target="_blank">
+<img src="http://pic.qiushibaike.com/system/pictures/11874/118744872/medium/app118744872.jpg" alt="永远不要吝啬善良[心]" />
+</a>
+
+</div>
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">854</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744872" data-share="/article/118744872" id="c-118744872" class="qiushi_comments" target="_blank">
+<i class="number">22</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744872" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744872" class="up">
+<a href="javascript:voting(118744872,1)" class="voting" data-article="118744872" id="up-118744872" rel="nofollow">
+<i></i>
+<span class="number hidden">866</span>
+</a>
+</li>
+<li id="vote-dn-118744872" class="down">
+<a href="javascript:voting(118744872,-1)" class="voting" data-article="118744872" id="dn-118744872" rel="nofollow">
+<i></i>
+<span class="number hidden">-12</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744872" id="c-118744872" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+<a href="/article/118744872" class='indexGodCmt' onclick="_hmt.push(['_trackEvent','web_list_god','chick'])" rel="nofollow" target='_blank' >
+<div class="cmtMain">
+<span class="cmt-god" ></span>
+
+<span class="cmt-name">雾里月朗</span>
+
+<div class="main-text">
+：回复 4楼：愿我们都能被这世界温柔以待❤️
+<div class="likenum">
+<img src="http://static.qiushibaike.com/images/newarticle/like@1.5.png?v=b7f830b3bb97b559891af61444d3b4ad" />
+
+
+6
+
+</div>
+</div>
+</div>
+</a>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744547'>
+
+<div class="author clearfix">
+<a href="/users/31578494/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3157/31578494/medium/20160409124607.jpg" alt="晴·空"/>
+</a>
+<a href="/users/31578494/" target="_blank" title="晴·空">
+<h2>晴·空</h2>
+</a>
+<div class="articleGender manIcon">22</div>
+</div>
+
+
+
+<a href="/article/118744547" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>去食堂吃饭，碰到以前的同学，我激动的过去就敲了下他的脑袋（读书时经常这样），谁知这货二话不说，转过来就揍我，然后我叫出了他的名字才停手，然后去医院包扎，他碰到个护士挺漂亮的就去勾搭了，然后他也被护士的男友揍了，现在我俩在医院大厅傻笑……</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">849</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744547" data-share="/article/118744547" id="c-118744547" class="qiushi_comments" target="_blank">
+<i class="number">15</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744547" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744547" class="up">
+<a href="javascript:voting(118744547,1)" class="voting" data-article="118744547" id="up-118744547" rel="nofollow">
+<i></i>
+<span class="number hidden">867</span>
+</a>
+</li>
+<li id="vote-dn-118744547" class="down">
+<a href="javascript:voting(118744547,-1)" class="voting" data-article="118744547" id="dn-118744547" rel="nofollow">
+<i></i>
+<span class="number hidden">-18</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744547" id="c-118744547" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118743571'>
+
+<div class="author clearfix">
+<a href="/users/31695224/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3169/31695224/medium/20160428212531.jpg" alt="久居深山丶鈊已凉"/>
+</a>
+<a href="/users/31695224/" target="_blank" title="久居深山丶鈊已凉">
+<h2>久居深山丶鈊已凉</h2>
+</a>
+<div class="articleGender manIcon">29</div>
+</div>
+
+
+
+<a href="/article/118743571" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>本人最近老是去小店打老虎机，也总是输钱，媳妇看不下去了，有天上班回来家里放着一台，我正怀疑呢，媳妇说去外地玩不如在家玩，没钱就给老婆拿，后面你们懂的，现在媳妇在算我给她拿了多少，她算好后说5年的零花钱没了，大神们岀岀主意我要怎样才有零花钱用，毕竟小店老板娘贼性感</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">826</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118743571" data-share="/article/118743571" id="c-118743571" class="qiushi_comments" target="_blank">
+<i class="number">24</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118743571" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118743571" class="up">
+<a href="javascript:voting(118743571,1)" class="voting" data-article="118743571" id="up-118743571" rel="nofollow">
+<i></i>
+<span class="number hidden">848</span>
+</a>
+</li>
+<li id="vote-dn-118743571" class="down">
+<a href="javascript:voting(118743571,-1)" class="voting" data-article="118743571" id="dn-118743571" rel="nofollow">
+<i></i>
+<span class="number hidden">-22</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118743571" id="c-118743571" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118745151'>
+
+<div class="author clearfix">
+<a href="/users/18849539/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/1884/18849539/medium/20150321125027.jpg" alt="不言自明"/>
+</a>
+<a href="/users/18849539/" target="_blank" title="不言自明">
+<h2>不言自明</h2>
+</a>
+<div class="articleGender manIcon">24</div>
+</div>
+
+
+
+<a href="/article/118745151" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>记得我读初三的时候，比较跳，一天打架惹事。有天我二姐给我打电话，跟我说她和她男朋友吵架了，（她男朋友我认识，见过几次，还有他号码）还哭了，当时我这暴脾气，直接把我姐电话挂了，打过去给他男朋友，电话通了直接劈头盖脸的一顿骂，最后还威胁他再欺负我姐，我直接叫人去弄他。然而，第二天我姐就骂我瞎管闲事。。。感觉我好傻。。。</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">813</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118745151" data-share="/article/118745151" id="c-118745151" class="qiushi_comments" target="_blank">
+<i class="number">9</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118745151" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118745151" class="up">
+<a href="javascript:voting(118745151,1)" class="voting" data-article="118745151" id="up-118745151" rel="nofollow">
+<i></i>
+<span class="number hidden">828</span>
+</a>
+</li>
+<li id="vote-dn-118745151" class="down">
+<a href="javascript:voting(118745151,-1)" class="voting" data-article="118745151" id="dn-118745151" rel="nofollow">
+<i></i>
+<span class="number hidden">-15</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118745151" id="c-118745151" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118745326'>
+
+<div class="author clearfix">
+<a href="/users/32563406/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3256/32563406/medium/2016110820283797.JPEG" alt="容貌姣好的小嫂子"/>
+</a>
+<a href="/users/32563406/" target="_blank" title="容貌姣好的小嫂子">
+<h2>容貌姣好的小嫂子</h2>
+</a>
+<div class="articleGender womenIcon">27</div>
+</div>
+
+
+
+<a href="/article/118745326" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>我们老家姑娘出嫁有个习俗，如果住在楼上的，要由自己家的弟弟先背下楼，再由新郎抱到婚车上。堂弟表弟远房弟弟都行。<br/>记得我结婚的时候，我堂弟看了我一眼问，你还有别的弟弟吗？</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">808</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118745326" data-share="/article/118745326" id="c-118745326" class="qiushi_comments" target="_blank">
+<i class="number">20</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118745326" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118745326" class="up">
+<a href="javascript:voting(118745326,1)" class="voting" data-article="118745326" id="up-118745326" rel="nofollow">
+<i></i>
+<span class="number hidden">826</span>
+</a>
+</li>
+<li id="vote-dn-118745326" class="down">
+<a href="javascript:voting(118745326,-1)" class="voting" data-article="118745326" id="dn-118745326" rel="nofollow">
+<i></i>
+<span class="number hidden">-18</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118745326" id="c-118745326" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744320'>
+
+<div class="author clearfix">
+<a href="/users/20160805/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/2016/20160805/medium/20140902142024.jpg" alt="带墨镜的瞎子"/>
+</a>
+<a href="/users/20160805/" target="_blank" title="带墨镜的瞎子">
+<h2>带墨镜的瞎子</h2>
+</a>
+<div class="articleGender manIcon">23</div>
+</div>
+
+
+
+<a href="/article/118744320" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>媳妇带着女儿在家上电脑搜家教机构，准备让女儿去培训一下，女儿一看就急了，说：“妈妈，爸爸赚钱不容易，咱能不能别乱花钱啊。”</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">794</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744320" data-share="/article/118744320" id="c-118744320" class="qiushi_comments" target="_blank">
+<i class="number">7</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744320" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744320" class="up">
+<a href="javascript:voting(118744320,1)" class="voting" data-article="118744320" id="up-118744320" rel="nofollow">
+<i></i>
+<span class="number hidden">810</span>
+</a>
+</li>
+<li id="vote-dn-118744320" class="down">
+<a href="javascript:voting(118744320,-1)" class="voting" data-article="118744320" id="dn-118744320" rel="nofollow">
+<i></i>
+<span class="number hidden">-16</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744320" id="c-118744320" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744196'>
+
+<div class="author clearfix">
+<a href="/users/33297350/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3329/33297350/medium/2017011420250034.JPEG" alt="苦13灰太狼"/>
+</a>
+<a href="/users/33297350/" target="_blank" title="苦13灰太狼">
+<h2>苦13灰太狼</h2>
+</a>
+<div class="articleGender manIcon">33</div>
+</div>
+
+
+
+<a href="/article/118744196" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>楼主开小饭馆的……俩老爷子在我这吃饭，A:阿里巴巴咋滴咋滴的，巴拉巴拉……B:那不就是个厂子么？做衣服啥的，我儿媳妇老买他们家东西……当时我就茅厕顿开，原来阿里巴巴是个厂子</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">792</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744196" data-share="/article/118744196" id="c-118744196" class="qiushi_comments" target="_blank">
+<i class="number">5</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744196" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744196" class="up">
+<a href="javascript:voting(118744196,1)" class="voting" data-article="118744196" id="up-118744196" rel="nofollow">
+<i></i>
+<span class="number hidden">809</span>
+</a>
+</li>
+<li id="vote-dn-118744196" class="down">
+<a href="javascript:voting(118744196,-1)" class="voting" data-article="118744196" id="dn-118744196" rel="nofollow">
+<i></i>
+<span class="number hidden">-17</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744196" id="c-118744196" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744197'>
+
+<div class="author clearfix">
+<a href="/users/32819440/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3281/32819440/medium/2016102823044847.JPEG" alt="乐无我变"/>
+</a>
+<a href="/users/32819440/" target="_blank" title="乐无我变">
+<h2>乐无我变</h2>
+</a>
+<div class="articleGender manIcon">16</div>
+</div>
+
+
+
+<a href="/article/118744197" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>醉驾第二集 …哈哈</span>
+
+
+</div>
+</a>
+
+
+
+
+<div class="thumb">
+
+<a href="/article/118744197" target="_blank">
+<img src="http://pic.qiushibaike.com/system/pictures/11874/118744197/medium/app118744197.jpg" alt="醉驾第二集" />
+</a>
+
+</div>
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">790</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744197" data-share="/article/118744197" id="c-118744197" class="qiushi_comments" target="_blank">
+<i class="number">13</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744197" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744197" class="up">
+<a href="javascript:voting(118744197,1)" class="voting" data-article="118744197" id="up-118744197" rel="nofollow">
+<i></i>
+<span class="number hidden">813</span>
+</a>
+</li>
+<li id="vote-dn-118744197" class="down">
+<a href="javascript:voting(118744197,-1)" class="voting" data-article="118744197" id="dn-118744197" rel="nofollow">
+<i></i>
+<span class="number hidden">-23</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744197" id="c-118744197" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118744054'>
+
+<div class="author clearfix">
+<span><img src="/static/images/thumb/anony.png?v=b61e7f5162d14b7c0d5f419cd6649c87" alt="匿名用户"/></span>
+<span><h2>匿名用户</h2></span>
+</div>
+
+
+
+<a href="/article/118744054" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>介特么是有多大仇</span>
+
+
+</div>
+</a>
+
+
+
+
+<div class="thumb">
+
+<a href="/article/118744054" target="_blank">
+<img src="http://pic.qiushibaike.com/system/pictures/11874/118744054/medium/app118744054.jpg" alt="介特么是有多大仇" />
+</a>
+
+</div>
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">797</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118744054" data-share="/article/118744054" id="c-118744054" class="qiushi_comments" target="_blank">
+<i class="number">10</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118744054" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118744054" class="up">
+<a href="javascript:voting(118744054,1)" class="voting" data-article="118744054" id="up-118744054" rel="nofollow">
+<i></i>
+<span class="number hidden">817</span>
+</a>
+</li>
+<li id="vote-dn-118744054" class="down">
+<a href="javascript:voting(118744054,-1)" class="voting" data-article="118744054" id="dn-118744054" rel="nofollow">
+<i></i>
+<span class="number hidden">-20</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118744054" id="c-118744054" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+<div class="article block untagged mb15" id='qiushi_tag_118745027'>
+
+<div class="author clearfix">
+<a href="/users/33390892/" target="_blank" rel="nofollow">
+<img src="http://pic.qiushibaike.com/system/avtnew/3339/33390892/medium/20170303062256.JPEG" alt="我的老夫子"/>
+</a>
+<a href="/users/33390892/" target="_blank" title="我的老夫子">
+<h2>我的老夫子</h2>
+</a>
+<div class="articleGender womenIcon">33</div>
+</div>
+
+
+
+<a href="/article/118745027" target="_blank" class='contentHerf' >
+<div class="content">
+
+
+
+<span>太丢脸了……上午带孩子去试听外教英语补习班，下课后外教老师很负责任的跟每位家长了解孩子情况，大家交流很顺畅，到我了，老师噼噼啪啪一大堆……我老脸一红……老师会汉语不，听不懂呀……儿子神补刀：‘妈妈，我也听不懂，走吧，正好我也不想学’</span>
+
+
+</div>
+</a>
+
+
+
+
+
+<div class="stats">
+<span class="stats-vote"><i class="number">778</i> 好笑</span>
+<span class="stats-comments">
+
+
+<span class="dash"> · </span>
+<a href="/article/118745027" data-share="/article/118745027" id="c-118745027" class="qiushi_comments" target="_blank">
+<i class="number">3</i> 评论
+</a>
+
+
+
+</span>
+</div>
+<div id="qiushi_counts_118745027" class="stats-buttons bar clearfix">
+<ul class="clearfix">
+<li id="vote-up-118745027" class="up">
+<a href="javascript:voting(118745027,1)" class="voting" data-article="118745027" id="up-118745027" rel="nofollow">
+<i></i>
+<span class="number hidden">796</span>
+</a>
+</li>
+<li id="vote-dn-118745027" class="down">
+<a href="javascript:voting(118745027,-1)" class="voting" data-article="118745027" id="dn-118745027" rel="nofollow">
+<i></i>
+<span class="number hidden">-18</span>
+</a>
+</li>
+
+<li class="comments">
+<a href="/article/118745027" id="c-118745027" class="qiushi_comments" target="_blank">
+<i></i>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="single-share">
+<a class="share-wechat" data-type="wechat" title="分享到微信" rel="nofollow">微信</a>
+<a class="share-qq" data-type="qq" title="分享到QQ" rel="nofollow">QQ</a>
+<a class="share-qzone" data-type="qzone" title="分享到QQ空间" rel="nofollow">QQ空间</a>
+<a class="share-weibo" data-type="weibo" title="分享到微博" rel="nofollow">微博</a>
+</div>
+<div class="single-clear"></div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+<ul class="pagination">
+
+<li>
+<a href="/8hr/page/1/" rel="nofollow">
+<span class="prev">
+&lt;
+</span>
+</a>
+</li>
+
+
+<li>
+<a href="/8hr/page/1/" rel="nofollow">
+<span class="page-numbers">
+1
+</span>
+</a>
+</li>
+
+
+
+
+<li>
+<span class="current" >
+2
+</span>
+</li>
+
+
+
+<li>
+<a href="/8hr/page/3?s=4966461" rel="nofollow">
+<!--<a href="/8hr/page/3/" rel="nofollow">-->
+<span class="page-numbers">
+3
+</span>
+</a>
+</li>
+
+
+
+<li>
+<a href="/8hr/page/4?s=4966461" rel="nofollow">
+<!--<a href="/8hr/page/4/" rel="nofollow">-->
+<span class="page-numbers">
+4
+</span>
+</a>
+</li>
+
+
+
+<li>
+<a href="/8hr/page/5?s=4966461" rel="nofollow">
+<!--<a href="/8hr/page/5/" rel="nofollow">-->
+<span class="page-numbers">
+5
+</span>
+</a>
+</li>
+
+
+
+<li>
+<span class="dots">
+…
+</span>
+</li>
+
+
+<li>
+<a href="/8hr/page/35?s=4966461" rel="nofollow">
+<!--<a href="/8hr/page/35/" rel="nofollow">-->
+<span class="page-numbers">
+35
+</span>
+</a>
+</li>
+
+
+<li>
+<a href="/8hr/page/3?s=4966461" rel="nofollow">
+<!--<a href="/8hr/page/3/" rel="nofollow">-->
+<span class="next">
+下一页
+</span>
+</a>
+</li>
+
+</ul>
+
+</div>
+
+
+<div class="col2">
+<div id="sidebar" class="sidebar">
+<div class="shopwindow">
+<!-- 55736471：web-右侧固定-up 类型：固定 尺寸：300x250-->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = "mm_108378320_13540554_55736471";
+ac_format = 1;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "afpeng.alimama.com/";
+//]]></script>
+<script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script>
+</div>
+<div class="shopwindow">
+<!-- 55736474：web-右侧固定-dn 类型：固定 尺寸：300x250-->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = "mm_108378320_13540554_55736474";
+ac_format = 1;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "afpeng.alimama.com/";
+//]]></script>
+<script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script>
+</div>
+
+
+<div class="sidebar-tutorial clearfix">
+<h3>糗百小提示</h3>
+<div class="sidebar-tutorial-block">
+<div class="sidebar-tutorial-keyboard"></div>
+<div class="sidebar-tutorial-text">按 Ctrl+D 键，把糗事百科加入收藏夹</div>
+</div>
+</div>
+<div class="sidebar-hot clearfix">
+<h3>爆笑糗事精选</h3>
+<ul>
+
+<li class="item">
+<a href="/article/118728185" rel="nofollow">
+<span><img src="http://pic.qiushibaike.com/system/pictures/11872/118728185/medium/app118728185.jpg?imageView2/1/w/146/h/146" alt="这老师"/></span>
+</a>
+<a href="/article/118728185" title="这老师" rel="nofollow">
+<p>这老师</p>
+</a>
+</li>
+
+<li class="item">
+<a href="/article/118578630" rel="nofollow">
+<span><img src="http://pic.qiushibaike.com/system/pictures/11857/118578630/medium/app118578630.jpg?imageView2/1/w/146/h/146" alt="我现在发现我都快没有心了"/></span>
+</a>
+<a href="/article/118578630" title="我现在发现我都快没有心了" rel="nofollow">
+<p>我现在发现我都快没有心了</p>
+</a>
+</li>
+
+<li class="item">
+<a href="/article/118585084" rel="nofollow">
+<span><img src="http://pic.qiushibaike.com/system/pictures/11858/118585084/medium/app118585084.jpg?imageView2/1/w/146/h/146" alt="单身可撩"/></span>
+</a>
+<a href="/article/118585084" title="单身可撩" rel="nofollow">
+<p>单身可撩</p>
+</a>
+</li>
+
+<li class="item">
+<a href="/article/118589844" rel="nofollow">
+<span><img src="http://pic.qiushibaike.com/system/pictures/11858/118589844/medium/app118589844.jpg?imageView2/1/w/146/h/146" alt="等你来带我去医院验血你不去"/></span>
+</a>
+<a href="/article/118589844" title="等你来带我去医院验血你不去" rel="nofollow">
+<p>等你来带我去医院验血你不去</p>
+</a>
+</li>
+
+<li class="item">
+<a href="/article/118590169" rel="nofollow">
+<span><img src="http://pic.qiushibaike.com/system/pictures/11859/118590169/medium/app118590169.jpg?imageView2/1/w/146/h/146" alt="这就是我的生活"/></span>
+</a>
+<a href="/article/118590169" title="这就是我的生活" rel="nofollow">
+<p>这就是我的生活</p>
+</a>
+</li>
+
+<li class="item">
+<a href="/article/118590201" rel="nofollow">
+<span><img src="http://pic.qiushibaike.com/system/pictures/11859/118590201/medium/app118590201.jpg?imageView2/1/w/146/h/146" alt="不和别人争吵"/></span>
+</a>
+<a href="/article/118590201" title="不和别人争吵" rel="nofollow">
+<p>不和别人争吵</p>
+</a>
+</li>
+
+<li class="item">
+<a href="/article/118594642" rel="nofollow">
+<span><img src="http://pic.qiushibaike.com/system/pictures/11859/118594642/medium/app118594642.jpg?imageView2/1/w/146/h/146" alt="你不找我"/></span>
+</a>
+<a href="/article/118594642" title="你不找我" rel="nofollow">
+<p>你不找我</p>
+</a>
+</li>
+
+<li class="item">
+<a href="/article/118598557" rel="nofollow">
+<span><img src="http://pic.qiushibaike.com/system/pictures/11859/118598557/medium/app118598557.jpg?imageView2/1/w/146/h/146" alt="女汉子还是不适合卖萌啊"/></span>
+</a>
+<a href="/article/118598557" title="女汉子还是不适合卖萌啊" rel="nofollow">
+<p>女汉子还是不适合卖萌啊</p>
+</a>
+</li>
+
+</ul>
+</div>
+<div class="sidebar-hot clearfix">
+<h3>热门话题<a class="more" href="/joke/">更多 ></a></h3>
+<div class="sidebar-tag-block">
+
+
+<li><i># </i><a href="/joke/31546/">搞笑的微信群名字</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/14729/">超级搞笑的笑话段子</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/14048/">唐僧师徒搞笑对话</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/13510/">搞笑整人电话录音</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/12907/">和女生聊天搞笑话题</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10780/">有意义的搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10779/">二胎的搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10776/">优衣库搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10764/">离婚协议书搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10761/">夫妻生活搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10752/">美女喝酒搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10704/">不孕不育搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10218/">最牛的搞笑动态图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10202/">美女囧图搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10196/">真人美女搞笑动态图</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10188/">ps美女搞笑图</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/10171/">微信骂人搞笑图片</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/8478/">糗事百科24小时最糗</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/5710/">生活幽默玄机图</a><i> #</i></li>
+
+<li><i># </i><a href="/joke/4303/">生活幽默玄机</a><i> #</i></li>
+
+
+</div>
+</div>
+
+
+<div class="shopwindow">
+<!-- 55736473：web-右侧悬浮-up 类型：固定 尺寸：300x250-->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = "mm_108378320_13540554_55736473";
+ac_format = 1;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "afpeng.alimama.com/";
+//]]></script>
+<script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script>
+</div>
+
+<div class="shopwindow">
+<!-- 55736475：web-右侧悬浮-dn 类型：固定 尺寸：300x250-->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = "mm_108378320_13540554_55736475";
+ac_format = 1;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "afpeng.alimama.com/";
+//]]></script>
+<script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script>
+</div>
+
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+
+<div class="foot">
+ <div class="foot-ad">
+<!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+<!--&lt;!&ndash; 16-糗事百科首页底部_BTF_728x90 &ndash;&gt;-->
+<!--<ins class="adsbygoogle"-->
+<!--style="display:inline-block;width:728px;height:90px"-->
+<!--data-ad-client="ca-pub-4939841000086153"-->
+<!--data-ad-slot="5196507409"></ins>-->
+<!--<script>-->
+<!--(adsbygoogle = window.adsbygoogle || []).push({});-->
+<!--</script>-->
+<!-- 68902435：web-底部固定 类型：固定 尺寸：728x90-->
+<script type="text/javascript">//<![CDATA[
+ac_as_id = "mm_108378320_13540554_68902435";
+ac_format = 1;
+ac_mode = 1;
+ac_group_id = 1;
+ac_server_base_url = "afpeng.alimama.com/";
+//]]></script>
+<script type="text/javascript" src="http://afpmm.alicdn.com/g/mm/afp-cdn/JS/k.js"></script>
+</div>
+
+<div class="foot-nav clearfix">
+<div class="foot-nav-col">
+<h3>
+关于
+</h3>
+<ul>
+<li>
+<a href="http://about.qiushibaike.com/web_jobs.html#team" target="_blank" rel="nofollow">
+关于糗百
+</a>
+</li>
+<li>
+<a href="http://about.qiushibaike.com/web_jobs.html#tech" target="_blank" rel="nofollow">
+加入我们
+</a>
+</li>
+<li>
+<a href="http://about.qiushibaike.com/web_jobs.html#contact" target="_blank" rel="nofollow">
+联系方式
+</a>
+</li>
+</ul>
+</div>
+<div class="foot-nav-col">
+<h3>
+帮助
+</h3>
+<ul>
+<li>
+<a href="http://about.qiushibaike.com/feedback.html" target="_blank" rel="nofollow">
+在线反馈
+</a>
+</li>
+<li>
+<a href="http://about.qiushibaike.com/agreement.html" target="_blank" rel="nofollow">
+用户协议
+</a>
+</li>
+<li>
+<a href="http://about.qiushibaike.com/policy.html" target="_blank" rel="nofollow">
+隐私政策
+</a>
+</li>
+</ul>
+</div>
+<div class="foot-nav-col">
+<h3>
+下载
+</h3>
+<ul>
+<li>
+<a href="http://android.myapp.com/android/appdetail.jsp?appid=107431&icfa=15144196000105020000&lmid=2031"
+target="_blank" rel="external nofollow">
+Android 客户端
+</a>
+</li>
+<li>
+<a href="http://itunes.apple.com/app/id422853458" target="_blank" rel="external nofollow">
+iPhone 客户端
+</a>
+</li>
+</ul>
+</div>
+<div class="foot-nav-col">
+<h3>
+关注
+</h3>
+<ul>
+<li>
+<a href="#" class="foot-wechat">
+微信
+<div class="foot-wechat-tips">
+<span class="foot-wechat-icon"></span>
+手机扫描二维码关注
+</div>
+</a>
+</li>
+<li>
+<a href="http://weibo.com/qiushibaike" target="_blank" rel="external nofollow">
+新浪微博
+</a>
+</li>
+<li>
+<a href="http://user.qzone.qq.com/1492495058" target="_blank" rel="external nofollow">
+QQ空间
+</a>
+</li>
+</ul>
+</div>
+<div class="foot-nav-col">
+<h3>
+组织
+</h3>
+<ul>
+<li>
+<a href="http://shang.qq.com/wpa/qunwpa?idkey=da34d190ca97a0b21d64ebc6f3ab72c076ed35820e629b78fcf9f6a78f7063cd"
+target="_blank" rel="external nofollow">
+网站反馈群
+</a>
+</li>
+<li>
+<a href="http://user.qzone.qq.com/1492495058/blog/1408597608" target="_blank"
+rel="external nofollow">
+官方粉丝群
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="foot-copyrights">
+<p>&copy; Qiushibaike.com 糗事百科版权所有</p>
+<p>
+<span>京ICP备14028348号-1</span>
+<span>京ICP证140448号</span>
+<span>
+<a style='color:#333' target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502031601" rel="nofollow"><img style='vertical-align: top;' src="/static/images/beian.png?v=d0289dc0a46fc5b15b3363ffa78cf6c7" />京公网安备11010502031601号</a>
+</span>
+</p>
+<p style="margin-top:8px">友际无限（北京）科技有限公司</p>
+<p style="margin-top:8px">
+<span>互联网违法和不良信息举报电话：010-84872896</span>
+<span>邮箱：kefu@qiushibaike.com</span>
+</p>
+</div>
+</div>
+
+
+<div class="signin-box" id="login-form">
+<div class="sigin-left">
+<div class="signin-account clearfix">
+<h4 class="social-signin-heading">社交帐号登录</h4>
+<a rel="external nofollow" oauth_href href="https://open.weixin.qq.com/connect/qrconnect?appid=wx559af2d26b56c655&redirect_uri=http%3A%2F%2Fwww.qiushibaike.com%2Fnew4%2Fsession%3Fsrc%3Dwx&response_type=code&scope=snsapi_login#wechat_redirect" class="social-btn social-wechat">
+使用 微信 账号</a>
+<a rel="external nofollow" oauth_href href="https://api.weibo.com/oauth2/authorize?client_id=63372306&redirect_uri=http%3A%2F%2Fwww.qiushibaike.com%2Fnew4%2Fsession" class="social-btn social-weibo">
+使用 微博 账号</a>
+<a rel="external nofollow" oauth_href href="https://graph.qq.com/oauth2.0/authorize?which=Login&display=pc&client_id=100251437&response_type=code&redirect_uri=www.qiushibaike.com/new4/session?src=qq" class="social-btn social-qq">
+使用 QQ 账号 </a>
+</div>
+<div class="signin-form clearfix">
+<h4 class="social-signin-heading">糗事百科账号登录</h4>
+<form method="post" action="/new4/session">
+<input type="hidden" name="_xsrf" value="2|3d122091|5267424d4fe082932b66c64d33459ce3|1489938329"/>
+<div class="signin-section clearfix">
+<input type="text" class="form-input form-input-first" name="login" placeholder="昵称或邮箱">
+<input type="password" class="form-input" name="password" placeholder="密码">
+<input type="checkbox" id="remember_me" name="remember_me" checked="" value="checked" style="display:none">
+</div>
+<div class="signin-error" id="signin-error"></div>
+<button type="submit" id="form-submit" class="form-submit">登录</button>
+</form>
+</div>
+<div class="signin-foot clearfix">
+<a rel="nofollow" href="/new4/fetchpass" class="fetch-password">忘记密码?</a>
+</div>
+</div>
+</div>
+
+<div class="float-nav">
+<a class="float-nav-backtop" href="#" rel="nofollow">
+<span class="float-nav-backtop-icon"></span>
+</a>
+</div>
+
+<!--[if gte IE 6]>
+<script type="text/javascript" src="http://static.qiushibaike.com/js/src/web/json3.js?v=3a7f66a11a09842cd7555fad039657be"></script>
+<![endif]-->
+<script type="text/javascript" src="http://static.qiushibaike.com/js/dist/web/libs.min.js?v=bc8ddd36f0e7fed7c27f437c17f23ce0"></script>
+<script type="text/javascript" src="http://static.qiushibaike.com/js/dist/web/app.min.js?v=9d24424ee8d18d35a0a64362f6e6694a"></script>
+
+
+
+<script type="text/javascript">
+// Google Analytics
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-8780108-1', 'auto');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
