@@ -10,8 +10,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python$GetPageCode.coverage" NAME="GetPageCode Coverage Results" MODIFIED="1490105144472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spiders/Spider2_tieba" />
     <SUITE FILE_PATH="coverage/Python$jokesSpider.coverage" NAME="jokesSpider Coverage Results" MODIFIED="1489938036899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider1_jokers" />
-    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1489938421665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider1_jokers" />
+    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1490103816985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider1_jokers" />
+    <SUITE FILE_PATH="coverage/Python$Spider.coverage" NAME="Spider Coverage Results" MODIFIED="1490190623305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spiders/Spider2_tieba" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -24,38 +26,46 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="__main___log.txt" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/__main___log.txt">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="525">
+                    <caret line="66" column="33" lean-forward="false" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="jokesSpider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py">
+      <file leaf-file-name="Spider.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/Spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+            <state relative-caret-position="207">
+              <caret line="45" column="38" lean-forward="true" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
               <folding>
-                <marker date="1489938410615" expanded="true" signature="1638:1930" ph="..." />
+                <element signature="e#0#27#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Spider1_jokers/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spider1_jokers/config.py">
+      <file leaf-file-name="Tools.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/Tools.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -64,11 +74,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="log.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spiders/Spider1_jokers/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34238">
-              <caret line="1802" column="0" lean-forward="false" selection-start-line="1802" selection-start-column="0" selection-end-line="1802" selection-end-column="0" />
+            <state relative-caret-position="69">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,6 +110,8 @@
       <find>lol</find>
       <find>醉酒舞剑砍疯子</find>
       <find>GOD</find>
+      <find>class=&quot;core_title_txt</find>
+      <find>l_posts_num</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -99,6 +121,10 @@
         <option value="$PROJECT_DIR$/Spider1_jokers/log.txt" />
         <option value="$PROJECT_DIR$/Spider1_jokers/config.py" />
         <option value="$PROJECT_DIR$/Spider1_jokers/jokesSpider.py" />
+        <option value="$PROJECT_DIR$/Spiders/Spider2_tieba/GetPageCode.py" />
+        <option value="$PROJECT_DIR$/Spiders/Spider2_tieba/config.py" />
+        <option value="$PROJECT_DIR$/Spiders/Spider2_tieba/Spider.py" />
+        <option value="$PROJECT_DIR$/Spiders/Spider2_tieba/Toos.py" />
       </list>
     </option>
   </component>
@@ -109,7 +135,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="570" />
+    <option name="x" value="509" />
     <option name="width" value="1256" />
     <option name="height" value="1040" />
   </component>
@@ -151,6 +177,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Spiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spider2_tieba" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spiders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Spider1_jokers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -163,10 +211,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.Spider">
     <configuration default="false" name="jokesSpider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,6 +247,42 @@
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider1_jokers/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GetPageCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spiders/Spider2_tieba" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spiders/Spider2_tieba/GetPageCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spiders/Spider2_tieba" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spiders/Spider2_tieba/Spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -417,14 +501,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.jokesSpider" />
       <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GetPageCode" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Spider" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.jokesSpider" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.Spider" />
+        <item index="1" class="java.lang.String" itemvalue="Python.GetPageCode" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.jokesSpider" />
       </list>
     </recent_temporary>
   </component>
@@ -451,10 +539,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="570" y="0" width="1256" height="1040" extended-state="0" />
+    <frame x="509" y="0" width="1256" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14677419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16370967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -485,78 +573,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py">
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/Spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489938410615" expanded="true" signature="1638:1930" ph="..." />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34238">
-          <caret line="1802" column="0" lean-forward="false" selection-start-line="1802" selection-start-column="0" selection-end-line="1802" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py">
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider1_jokers/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1489938410615" expanded="true" signature="1638:1930" ph="..." />
+            <element signature="e#0#18#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34238">
-          <caret line="1802" column="0" lean-forward="true" selection-start-line="1802" selection-start-column="0" selection-end-line="1802" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1489938410615" expanded="true" signature="1638:1930" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1489938410615" expanded="true" signature="1638:1930" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9405">
-          <caret line="495" column="0" lean-forward="true" selection-start-line="495" selection-start-column="0" selection-end-line="495" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/main.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/config.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/config.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt" />
     <entry file="file://$PROJECT_DIR$/decorator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -585,22 +633,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookkies/cookie_test.py">
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/main.py" />
+    <entry file="file://$PROJECT_DIR$/Spider1_jokers/config.py" />
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider1_jokers/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/log.txt">
+    <entry file="file://$PROJECT_DIR$/cookkies/cookie_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34238">
-          <caret line="1802" column="0" lean-forward="false" selection-start-line="1802" selection-start-column="0" selection-end-line="1802" selection-end-column="0" />
+        <state relative-caret-position="152">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider1_jokers/jokesSpiderlog.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider1_jokers/jokesSpider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/GetPageCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="116" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="871" column="11" lean-forward="false" selection-start-line="871" selection-start-column="11" selection-end-line="871" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/config.py">
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/__main___log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="66" column="33" lean-forward="false" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/Toos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -608,22 +696,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/jokesSpider.py">
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/Tools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="60" column="38" lean-forward="false" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
-          <folding>
-            <marker date="1489938410615" expanded="true" signature="1638:1930" ph="..." />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spider1_jokers/main.py">
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider1_jokers/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="69">
           <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spiders/Spider2_tieba/Spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="45" column="38" lean-forward="true" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
