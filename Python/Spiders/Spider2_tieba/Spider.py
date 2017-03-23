@@ -2,6 +2,7 @@ from urllib import  request
 import urllib
 import re
 import  config
+import  Tools
 
 class BDTB:
 
@@ -11,6 +12,7 @@ class BDTB:
         self.pageIndex=1
         self.seeLz='?see_lz='+str(seelz)
         self.headers={"User-Agent":self.agent}
+        self.tools=Tools.Tools()
 
     def getPageCode(self,pageIndex):
         try:
@@ -24,7 +26,6 @@ class BDTB:
             return content
         except urllib.error.URLError as e:
             if hasattr(e,'reason'):
-                print('Error:',e.status,e.reason)
                 return None
 
     def getTitle(self,pageCode):
@@ -37,7 +38,6 @@ class BDTB:
 
         title=re.search(pattern,pageCode)
         if title:
-            print('GetTitle',title.group(1))
             return title.group(1)
         return None
 
@@ -46,25 +46,40 @@ class BDTB:
         count=re.search(pattern,pageCode,re.S)
         if count:
             print('pageCount',count.group(1))
-            return count.group(1)
+            return int(count.group(1))
         return None
 
     def getContent(self,pageCode):
         pattern=(r'<div id="post_content.*?>(.*?)</div')
         macher=re.compile(pattern,re.S)
         content=re.findall(macher,pageCode)
-        print("content",len(content))
-        for item in content:
-            print( item.strip())
         return content
+
+    def Start(self):
+        pageCode=self.getPageCode(self.pageIndex)
+        pageCount=self.getPageCount(pageCode)
+        title=self.getTitle(pageCode)
+        with open(title+".txt",'w+',encoding='utf-8') as file:
+            print('帖子共有', pageCount, '页')
+            floor = 1
+            for i in range(1,pageCount+1,1):
+                print('正在写入第',i,'页')
+                self.pageIndex=i
+                pagecode=self.getPageCode(self.pageIndex)
+                content=self.getContent(pagecode)
+                file.write('Page:'+str(i)+'\n')
+
+                for item in content:
+                    file.write('\n'+str(floor)+'楼--------------------------------------------------------------------------\n')
+                    file.write(self.tools.replace(item)+'\n')
+                    floor+=1
+            file.close()
 
 
 
 if __name__=="__main__":
     bdtb=BDTB(config.url,config.agent,1)
-    pageCode=bdtb.getPageCode(1)
-    bdtb.getTitle(pageCode)
-    bdtb.getPageCount(pageCode)
-    bdtb.getContent(pageCode)
+    bdtb.Start()
+
 
 
